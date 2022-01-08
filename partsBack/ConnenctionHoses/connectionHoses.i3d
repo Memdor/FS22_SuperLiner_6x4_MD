@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="tgs18500" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="9.0.2"/>
+  </Asset>
+
+  <Files>
+  </Files>
+
+
+  <Materials>
+  </Materials>
+
+
+  <Shapes>
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+      <TransformGroup name="connectionHoses" translation="0 -0.0222018 0.194596" nodeId="5">
+        <TransformGroup name="airDoubleStorage" translation="-0.304512 0.839901 -3.15269" rotation="0 180 0" nodeId="6"/>
+        <TransformGroup name="airDoubleControl" translation="0.28173 0.839901 -3.15269" nodeId="7"/>
+        <TransformGroup name="backElectric" translation="0.4156 0.829601 -3.10749" nodeId="8"/>
+        <TransformGroup name="semiElectric" translation="-0.310214 1.46743 0.664334" nodeId="9"/>
+        <TransformGroup name="hydraulic03_out" translation="0.4029 0.955101 -3.17519" nodeId="10"/>
+        <TransformGroup name="hydraulic03_in" translation="0.4499 0.955501 -3.17519" nodeId="11"/>
+        <TransformGroup name="hydraulic02_out" translation="0.4023 1.0131 -3.17519" nodeId="12"/>
+        <TransformGroup name="hydraulic02_in" translation="0.45 1.0131 -3.17519" nodeId="13"/>
+        <TransformGroup name="airDoubleControl02" translation="0.0391013 1.45249 0.653696" rotation="0 0 -4.84753e-16" nodeId="14"/>
+        <TransformGroup name="airDoubleStorage02" translation="-0.0798563 1.45249 0.653696" rotation="0 0 -4.84753e-16" nodeId="15"/>
+        <TransformGroup name="hydraulic04_in" translation="-0.0367635 1.5876 0.636485" nodeId="16"/>
+        <TransformGroup name="hydraulic04_out" translation="0.0825644 1.5876 0.636485" nodeId="17"/>
+      </TransformGroup>
+  </Scene>
+
+</i3D>
