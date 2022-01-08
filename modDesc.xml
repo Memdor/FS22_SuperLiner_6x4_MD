@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+    <author>GIANTS, MEMDOR</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Super-Liner 6x4 V2 Auto-Load.</en>
+        <de>Super-Liner 6x4 V2 Auto-Lader.</de>
+        <fr>Super-Liner 6x4 V2 chargement automatique.</fr>
+        <it>Super-Liner 6x4 V2 Caricatore automatico.</it>
+    </title>
+    <description>
+        <en>Super-Liner 6x4 V2 Auto-Load.</en>
+        <de>Super-Liner 6x4 V2 Auto-Lader.</de>
+        <fr>Super-Liner 6x4 V2 chargement automatique.</fr>
+        <it>Super-Liner 6x4 V2 Caricatore automatico.</it>
+    </description>
+    <iconFilename>store_superliner1979_AL.png</iconFilename>
+    <multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="superliner1979_AL.xml"/>
+    </storeItems>
+    <vehicleTypes>
+        <type name="PalletAutoLoaderTruck" parent="baseDrivable" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="FS22_aPalletAutoLoader.aPalletAutoLoader"/>
+            <specialization name="tensionBelts"/>
+        </type>
+    </vehicleTypes>
+    <l10n filenamePrefix="translat/l10n"/>
+    <!-- V 1.0.9.0
+        - Farbauswahl
+        - Logos -->
+</modDesc>
