@@ -1,32 +1,245 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="62">
-    <author>GIANTS, MEMDOR</author>
-    <version>1.0.0.0</version>
+<modDesc descVersion="63">
+
+    <author>MEMDOR</author>
+    <version>1.2.0.0</version>
+
     <title>
         <en>Super-Liner 6x4 V2 Auto-Load.</en>
         <de>Super-Liner 6x4 V2 Auto-Lader.</de>
-        <fr>Super-Liner 6x4 V2 chargement automatique.</fr>
-        <it>Super-Liner 6x4 V2 Caricatore automatico.</it>
+        <fr>Super-Liner 6x4 V2 Chargement Automatique.</fr>
+        <it>Super-Liner 6x4 V2 Caricatore Automatico.</it>
     </title>
+
     <description>
-        <en>Super-Liner 6x4 V2 Auto-Load.</en>
-        <de>Super-Liner 6x4 V2 Auto-Lader.</de>
-        <fr>Super-Liner 6x4 V2 chargement automatique.</fr>
-        <it>Super-Liner 6x4 V2 Caricatore automatico.</it>
+        <en> <![CDATA[
+Achimobil "Pallet Autoloader Specialization" is required for the Pallet Autoloader function.
+
+MACK Super-Liner 6x4 V2 with pallet autoloader function makes your work with productions and numerous pallets easier. 
+Up to 24 Euro pallets can be transported with one tour. 
+
+The MACK has a trailer hitch, so trailers can be coupled, which increases the amount of Euro pallets to be transported depending on the trailer.
+
+Euro pallets, liquid tanks, BigBag pallets, cotton round bales and oversized Euro pallets can be loaded by the pallet autoloader specialization.
+
+The payload can be selected in the store between 12 and 24 Euro pallets. 
+With the color choice you design the MACK according to their wishes.
+
+Changelog V 1.2.0.0
+- Tested with TestRunner_public (GIANTS). (Error free!)
+- Loading area enlarged
+- Loading area adapted for autoload
+- Autoload trigger moved further forward because of trailer
+- Payload changed 12 and 24 Euro pallets.
+- Trailer hitch with connections moved further back. (Autoload now works with trailer).
+- Side lights attached.
+- Dependencies of "Pallet Autoloader Specialization" added
+
+Changelog V 1.1.0.0
+- Tested with TestRunner_public (GIANTS). (Error free!)
+- Flatbed adjusted
+- Payload changed. 10 and 20 Euro pallets.
+- Rear lights attached to the flatbed
+- Trailer hitch with connections attached. (Attention, unfortunately the autoload with trailer works only with the truck, not with the trailer!)
+- Logos attached to the flatbed
+- New store image
+- New icon image
+- Description in modDesc adapted
+
+Changelog V 1.0.8.0
+- Color selection
+- Translation moved to the modDesc
+            ]]>
+        </en>
+
+        <de> <![CDATA[
+Für die Funktion des Paletten-Autoloader wird die „Paletten Autoloader Spezialisierung“ von Achimobil benötigt.
+
+MACK Super-Liner 6x4 V2 mit Paletten-Autoloader Funktion erleichter Ihnen die Arbeit mit den Produktionen und den zahlreichen Paletten. 
+Bis zu 24 Euro-Paletten können mit einer Tour transportiert werden. 
+
+Der MACK verfügt über eine Anhängerkupplung, so können Anhänger angekoppelt werden, was die Menge der zu transportierenden Euro-Paletten je nach Anhänger steigert.
+
+Euro-Paletten,  Flüssigkeitstanks, BigBag Paletten, Baumwolle Rundballen und übergroße Euro-Paletten können von der Paletten Autoloader Spezialisierung geladen werden.
+
+Die Zuladung kann im Shop zwischen 12 und 24 Euro Paletten gewählt werden. 
+Mit der Farbwahl gestalten Sie den MACK nach ihren Wünsche.
+
+Changelog V 1.2.0.0
+- Getestet mit TestRunner_public (GIANTS). (Fehlerfrei!)
+- Ladefläche vergrößert
+- Ladefläche für Autoload angepasst
+- Autoload Trigger wegen Anhänger weiter nach vorne verschoben
+- Zuladung geänder 12 und 24 Euro Paletten.
+- Anhängerkupplung mit Verbindungen weiter nach hinten verlegt. (Autoload funktioniert jetzt mit Anhänger.)
+- Seitenlichter angebracht.
+- Abhängigkeiten von "Paletten Autoloader Spezialisierung" eingefügt
+
+Changelog V 1.1.0.0
+- Getestet mit TestRunner_public (GIANTS). (Fehlerfrei!)
+- Flachbett angepasst
+- Zuladung geänder. 10 und 20 Euro Paletten.
+- Rücklichter ans Flachbett angebracht
+- Anhängerkupplung mit Verbindungen angebracht. (Achtung, leider funktioniert der Autoload mit Anhänger nur bei dem LKW, nicht beim Anhänger!)
+- Logos ans Flachbett angebracht
+- Neues Store Bild
+- Neues Icon Bild
+- Beschreibung in der modDesc angepasst
+
+Changelog V 1.0.8.0
+- Farbauswahl
+- Übersetzung in die modDesc verlagert
+
+            ]]>
+        </de>
+
+        <fr> <![CDATA[
+Pour la fonction autochargeur de palettes, la "Paletten Autoloader Spezialisierung" d'Achimobil est nécessaire.
+
+MACK Super-Liner 6x4 V2 avec fonction autochargeur de palettes vous facilite le travail avec les productions et les nombreuses palettes. 
+Jusqu'à 24 palettes Euro peuvent être transportées en une seule tournée. 
+
+Le MACK dispose d'un attelage de remorque, il est donc possible d'y atteler des remorques, ce qui augmente la quantité d'euro-palettes à transporter en fonction de la remorque.
+
+Les palettes Euro, les citernes de liquide, les palettes BigBag, les balles rondes de coton et les palettes Euro surdimensionnées peuvent être chargées par la spécialisation Autoloader de palettes.
+
+La charge utile peut être choisie dans la boutique entre 12 et 24 palettes Euro. 
+Le choix de la couleur vous permet de personnaliser le MACK selon vos souhaits.
+
+Changelog V 1.2.0.0
+- Testé avec TestRunner_public (GIANTS). (sans erreur !)
+- Surface de chargement agrandie
+- Ajustement de la surface de chargement pour l'autoload
+- Déclenchement de l'autoload déplacé plus en avant à cause de la remorque
+- Chargement modifié palettes de 12 et 24 euros.
+- Attelage de remorque avec connexions déplacé plus loin vers l'arrière. (Autoload fonctionne maintenant avec la remorque.)
+- Feux latéraux ajoutés.
+- Ajout des dépendances de "Spécialisation de l'autochargeur de palettes".
+
+Changelog V 1.1.0.0
+- Testé avec TestRunner_public (GIANTS). (sans erreur !)
+- Adaptation de la table plate
+- Chargement modifié. Palettes de 10 et 20 euros.
+- Feux arrière fixés sur le plateau
+- Attelage de remorque avec connexions. (Attention, malheureusement, l'autoload avec remorque ne fonctionne que pour le camion, pas pour la remorque !)
+- Logos fixés sur le plateau
+- Nouvelle image Store
+- Nouvelle image d'icône
+- Description adaptée dans le modDesc
+
+Changelog V 1.0.8.0
+- Choix des couleurs
+- Traduction déplacée dans le modDesc
+            ]]>
+        </fr>
+
+        <it> <![CDATA[
+La "Specializzazione Pallet Autoloader" di Achimobil è necessaria per la funzione Pallet Autoloader.
+
+Il MACK Super-Liner 6x4 V2 con funzione di caricatore automatico di pallet facilita il lavoro con le produzioni e i numerosi pallet. 
+Fino a 24 europallet possono essere trasportati in un solo viaggio. 
+
+Il MACK ha un gancio di traino, quindi i rimorchi possono essere accoppiati, il che aumenta la quantità di europallet da trasportare a seconda del rimorchio.
+
+Gli europallet, i serbatoi di liquidi, i pallet BigBag, le balle rotonde di cotone e gli europallet sovradimensionati possono essere caricati dalla specializzazione Pallet Autoloader.
+
+Il carico utile può essere selezionato in negozio tra 12 e 24 Euro pallet. 
+Con la scelta del colore, potete progettare il MACK secondo i vostri desideri.
+
+Changelog V 1.2.0.0
+- Testato con TestRunner_public (GIANTS). (Senza errori!)
+- Area di carico allargata
+- Zona di carico adattata per l'autocaricamento
+- Grilletto di autocaricamento spostato più avanti a causa del rimorchio
+- Carico utile cambiato 12 e 24 Euro pallet.
+- Gancio di traino con attacchi spostati più indietro. (Autoload ora funziona con il rimorchio).
+- Luci laterali montate.
+- Dipendenze di "Specializzazione Pallet Autoloader" inserite
+
+Changelog V 1.1.0.0
+- Testato con TestRunner_public (GIANTS). (Senza errori!)
+- Flatbed adattato
+- La capacità di carico è cambiata. Pallet da 10 e 20 euro.
+- Luci posteriori attaccate al pianale.
+- Gancio di traino con attacchi attaccati. (Attenzione, purtroppo l'autoload con rimorchio funziona solo con il camion, non con il rimorchio).
+- Loghi attaccati al pianale
+- Nuova immagine del negozio
+- Nuova immagine dell'icona
+- Descrizione nel modDesc adattata
+
+Changelog V 1.0.8.0
+- Selezione del colore
+- La traduzione è stata spostata nel modDesc
+            ]]>
+        </it>
     </description>
-    <iconFilename>store_superliner1979_AL.png</iconFilename>
+
+    <iconFilename>icon_superliner1979_AL.png</iconFilename>
+
     <multiplayer supported="true"/>
+
     <storeItems>
         <storeItem xmlFilename="superliner1979_AL.xml"/>
     </storeItems>
+
+    <dependencies>
+        <dependency>FS22_aPalletAutoLoader</dependency>
+    </dependencies>
+
+    <brands>
+        <brand name="MEMDOR" title="MEMDOR" image="brand.icon.dds"/>
+    </brands>
+
     <vehicleTypes>
         <type name="PalletAutoLoaderTruck" parent="baseDrivable" filename="$dataS/scripts/vehicles/Vehicle.lua">
             <specialization name="FS22_aPalletAutoLoader.aPalletAutoLoader"/>
             <specialization name="tensionBelts"/>
         </type>
     </vehicleTypes>
-    <l10n filenamePrefix="translat/l10n"/>
-    <!-- V 1.0.9.0
-        - Farbauswahl
-        - Logos -->
+
+    <l10n>
+        <text name="function_PalletAutoload_Truck">
+            <en>Truck with Autoload for pallets.</en>
+            <de>Truck mit Autoload für verschiedene Paletten.</de>
+            <fr>Camion avec Autoload pour palettes.</fr>
+            <it>Camion con Autoload per pallet.</it>
+        </text>
+        <text name="type_PalletAutoload_Truck">
+            <en>Pallet Autoload</en>
+            <de>Paletten Autoloader</de>
+            <fr>Autochargeur de palettes</fr>
+            <it>Caricatore automatico di pallet</it>
+        </text>
+        <text name="unit_PalletAutoload_Truck">
+            <en>Pallets</en>
+            <de>Paletten</de>
+            <fr>Palettes</fr>
+            <it>Pallets</it>
+        </text>
+        <text name="configuration_aPalletAutoloader_Mack">
+            <en>Maximum payload</en>
+            <de>Maximale Zuladdung</de>
+            <fr>Charge maximale</fr>
+            <it>Carico utile massimo</it>
+        </text>
+        <text name="configuration_Pallet_12">
+            <en>12 Euro pallets</en>
+            <de>12 Euro-Paletten</de>
+            <fr>12 palettes Euro</fr>
+            <it>12 Euro pallet</it>
+        </text>
+        <text name="configuration_Pallet_24">
+            <en>24 Euro pallets</en>
+            <de>24 Euro-Paletten</de>
+            <fr>24 palettes Euro</fr>
+            <it>24 Euro pallet</it>
+        </text>
+        <text name="configuration_Pallet_36">
+            <en>36 Euro pallets</en>
+            <de>36 Euro-Paletten</de>
+            <fr>36 palettes Euro</fr>
+            <it>36 Euro pallet</it>
+        </text>
+    </l10n>
+
 </modDesc>
