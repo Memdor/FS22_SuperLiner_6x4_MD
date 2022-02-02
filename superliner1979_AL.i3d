@@ -286,7 +286,7 @@
             <TransformGroup name="wheelBackRight" translation="-0.764 0.568778 -3.43121" nodeId="119"/>
           </TransformGroup>
           <TransformGroup name="cameras" nodeId="120">
-            <Camera name="TEST" translation="2.24526 1.57625 -2.47247" rotation="165.524 65.4124 -180" nodeId="121" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
+            <Camera name="TEST" translation="3.17497 2.49401 -8.4292" rotation="163.461 43.6346 180" nodeId="121" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
             <TransformGroup name="outdoorCameraTarget" translation="0 1.5 0" rotation="-24 180 0" nodeId="122">
               <Camera name="outdoorCamera1" translation="0 0 11" nodeId="123" fov="54.4322" nearClip="0.3" farClip="5000" orthographicHeight="1"/>
             </TransformGroup>
@@ -318,8 +318,8 @@
                 <Shape shapeId="5" name="backLightGlass_static_R2" translation="0 1.22085 -4.45695" clipDistance="75" nodeId="147" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
               </TransformGroup>
               <TransformGroup name="backLights" translation="0 0.054 -2.336" scale="1 1 0.795689" nodeId="148">
-                <Shape shapeId="14" name="turnlightLeftBackGlass_static" translation="0.349806 1.303 -4.891" clipDistance="75" nodeId="149" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
-                <Shape shapeId="15" name="turnlightRightBackGlass_static" translation="-0.349806 1.30324 -4.891" clipDistance="75" nodeId="150" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+                <Shape shapeId="14" name="turnlightLeftBackGlass_static" translation="0.349806 1.303 -4.892" clipDistance="75" nodeId="149" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+                <Shape shapeId="15" name="turnlightRightBackGlass_static" translation="-0.349806 1.30324 -4.892" clipDistance="75" nodeId="150" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
                 <Shape shapeId="16" name="turnlightLeftBackGlass_static1" translation="0 2.239 -1.402" rotation="-90 0 0" clipDistance="75" nodeId="151" materialIds="19" castsShadows="true" receiveShadows="true" decalLayer="1"/>
                 <Shape shapeId="17" name="turnlightRightBackGlass_static1" translation="0 2.239 -1.402" rotation="-90 0 0" clipDistance="75" nodeId="152" materialIds="19" castsShadows="true" receiveShadows="true" decalLayer="1"/>
                 <Shape shapeId="18" name="backLightGlass_static1" translation="0 1.13983 -4.891" clipDistance="75" nodeId="153" materialIds="8" castsShadows="true" receiveShadows="true" decalLayer="1"/>
@@ -548,7 +548,7 @@
             </TransformGroup>
             <TransformGroup name="tensionBelts" translation="0 1.346 -1.845" nodeId="309">
               <Shape shapeId="61" name="beltActivationTrigger" translation="0 1.975 -0.81" visibility="false" kinematic="true" trigger="true" collisionMask="1048576" nodeId="310" materialIds="12" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
-              <TransformGroup name="beltStart1" translation="1.295 0.079 0.827572" rotation="0 -90 0" nodeId="311">
+              <TransformGroup name="beltStart1" translation="1.295 0.079 0.828" rotation="0 -90 0" nodeId="311">
                 <TransformGroup name="beltEnd1" translation="-7.37599e-16 -4.26326e-16 2.51" nodeId="312"/>
               </TransformGroup>
               <TransformGroup name="beltStart2" translation="1.295 0.079 0.194533" rotation="0 -90 0" nodeId="313">
