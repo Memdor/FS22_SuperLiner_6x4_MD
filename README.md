@@ -32,3 +32,42 @@ Changelog V 1.1.0.0
 Changelog V 1.0.8.0
 - Farbauswahl
 - Übersetzung in die modDesc verlagert
+
+-----------------------------------------------------------------------
+
+Achimobil "Pallet Autoloader Specialization" is required for the Pallet Autoloader function.
+
+MACK Super-Liner 6x4 V2 with pallet autoloader function makes your work with productions and numerous pallets easier. 
+Up to 24 Euro pallets can be transported with one tour. 
+
+The MACK has a trailer hitch, so trailers can be coupled, which increases the amount of Euro pallets to be transported depending on the trailer.
+
+Euro pallets, liquid tanks, BigBag pallets, cotton round bales and oversized Euro pallets can be loaded by the pallet autoloader specialization.
+
+The payload can be selected in the store between 12 and 24 Euro pallets. 
+With the color choice you design the MACK according to their wishes.
+
+Changelog V 1.2.0.0
+- Tested with TestRunner_public (GIANTS). (Error free!)
+- Loading area enlarged
+- Loading area adapted for autoload
+- Autoload trigger moved further forward because of trailer
+- Payload changed 12 and 24 Euro pallets.
+- Trailer hitch with connections moved further back. (Autoload now works with trailer).
+- Side lights attached.
+- Dependencies of "Pallet Autoloader Specialization" added
+
+Changelog V 1.1.0.0
+- Tested with TestRunner_public (GIANTS). (Error free!)
+- Flatbed adjusted
+- Payload changed. 10 and 20 Euro pallets.
+- Rear lights attached to the flatbed
+- Trailer hitch with connections attached. (Attention, unfortunately the autoload with trailer works only with the truck, not with the trailer!)
+- Logos attached to the flatbed
+- New store image
+- New icon image
+- Description in modDesc adapted
+
+Changelog V 1.0.8.0
+- Color selection
+- Translation moved to the modDesc
