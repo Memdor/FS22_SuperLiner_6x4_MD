@@ -1,4 +1,6 @@
 
+Download the latest version
+
 Für die Funktion des Paletten-Autoloader wird die „Paletten Autoloader Spezialisierung“ von Achimobil benötigt.
 
 MACK Super-Liner 6x4 mit Paletten-Autoloader Funktion 
