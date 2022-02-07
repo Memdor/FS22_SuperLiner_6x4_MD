@@ -1,5 +1,5 @@
 
-[FS22_SuperLiner_6x4_MD.zip](https://github.com/Memdor/FS22_SuperLiner_6x4_MD/files/8017776/FS22_SuperLiner_6x4_MD.zip)
+[Download the latest version](https://github.com/Memdor/FS22_SuperLiner_6x4_MD/releases/tag/1.2.0.0)
 
 
 Für die Funktion des Paletten-Autoloader wird die „Paletten Autoloader Spezialisierung“ von Achimobil benötigt.
